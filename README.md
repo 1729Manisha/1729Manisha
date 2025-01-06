@@ -9,10 +9,6 @@
   <img align="center" alt="Coding GIF" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1729manisha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🛠️ Languages and Tools
