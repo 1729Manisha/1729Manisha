@@ -41,9 +41,10 @@
 ## 🏆 LeetCode Stats
 <p align="center">
   <a href="https://www.leetcode.com/manisha1729">
-    <img src="https://leetcard.jacoblin.cool/manisha1729?theme=dark&font=Arial&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/manisha1729?theme=dark&font=Arial&ext=heatmap" alt="LeetCode Heatmap" />
   </a>
 </p>
+
 
 ---
 
@@ -56,7 +57,7 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/manishatherupalli" target="blank">
+  <a href="https://www.linkedin.com/in/manishatherupalli/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:manishatherupalli@gmail.com">
