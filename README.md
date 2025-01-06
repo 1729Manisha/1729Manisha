@@ -57,13 +57,14 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/manishatherupalli/" target="blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/manishatherupalli" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:manishatherupalli@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
